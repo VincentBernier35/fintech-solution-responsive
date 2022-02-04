@@ -314,7 +314,7 @@ input::placeholder{
 
 /* Footer */
 footer {
-    height: 80px;
+    height: 150px;
     background-color: #222;
     color: #fff;
 
@@ -415,5 +415,6 @@ footer {
         width: 100%;
 
     }
+
 
 }
