@@ -314,15 +314,16 @@ input::placeholder{
 
 /* Footer */
 footer {
+    display: flex;
     height: 150px;
     background-color: #222;
     color: #fff;
+    flex-direction: column;
 
     text-align: center;
 }
 .contact-me {
-    font-weight: 400;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
 }
 
 
