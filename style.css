@@ -50,7 +50,7 @@ section {
 /* Hero section */
 header {
     height: 100vh; /*c'est l'écran en entier*/
-    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,0.6)), url('bg-image.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,0.6)), url('bg-image.JPG');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
